@@ -18,3 +18,7 @@ Enter the resources values for current allocation values for each process, max r
 
 ## Executable 
 To use the executable file of the program download the exeutable folder and run Bankers.exe file
+
+## Screenshots
+
+![GUI](https://github.com/saif-samy/Bankers_Algorithm/blob/main/screenshot/GUI.png)
