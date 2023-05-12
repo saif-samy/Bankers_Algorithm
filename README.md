@@ -21,7 +21,7 @@ To use the executable file follow this link and download the folder:
 ```bash
 https://drive.google.com/drive/folders/18ouVnyLgfF3MP_YZBrZ_eooSKv1M7wpn?usp=sharing
 ```
-then run the **Bankers.exe** file
+then run the **Bankers.exe** file. The executable file was done using electron.js framework.
 
 ## Screenshots
 
