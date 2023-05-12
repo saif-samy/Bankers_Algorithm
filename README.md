@@ -14,4 +14,4 @@ To visit the project website follow the following link:
 https://saif-samy.github.io/Bankers_Algorithm/
  ```
 ## How to use
-Enter the resources values for 
+Enter the resources values for current allocation values for each process, max resources needed for each process and the available count for each resource. Note that the current alloation table and max allocation table should be the same size. All inputs should also be numbers greater than or equal to zero
