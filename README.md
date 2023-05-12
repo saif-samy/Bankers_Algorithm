@@ -7,3 +7,9 @@ To get started with the project, simply clone the repository to your computer:
  ```bash
 https://github.com/saif-samy/Bankers_Algorithm.git
  ```
+## Website
+To visit the project website follow the following link:
+
+ ```bash
+https://saif-samy.github.io/Bankers_Algorithm/
+ ```
