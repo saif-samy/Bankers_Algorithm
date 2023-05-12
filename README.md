@@ -17,7 +17,11 @@ https://saif-samy.github.io/Bankers_Algorithm/
 Enter the resources values for current allocation values for each process, max resources needed for each process and the available count for each resource. Note that the current alloation table and max allocation table should be the same size. All inputs should also be numbers greater than or equal to zero
 
 ## Executable 
-To use the executable file of the program download the exeutable folder and run Bankers.exe file
+To use the executable file follow this link and download the folder:
+```bash
+https://drive.google.com/drive/folders/18ouVnyLgfF3MP_YZBrZ_eooSKv1M7wpn?usp=sharing
+```
+then run the **Bankers.exe** file
 
 ## Screenshots
 
