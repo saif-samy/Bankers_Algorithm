@@ -13,3 +13,5 @@ To visit the project website follow the following link:
  ```bash
 https://saif-samy.github.io/Bankers_Algorithm/
  ```
+## How to use
+Enter the resources values for 
