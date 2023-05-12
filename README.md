@@ -22,3 +22,11 @@ To use the executable file of the program download the exeutable folder and run 
 ## Screenshots
 
 ![GUI](https://github.com/saif-samy/Bankers_Algorithm/blob/main/screenshot/GUI.png)
+
+**Safe Sequence**
+
+![Safe-Sequence](https://github.com/saif-samy/Bankers_Algorithm/blob/main/screenshot/safe-sequence.png)
+
+**Un-safe Sequence**
+
+![Safe-Sequence](https://github.com/saif-samy/Bankers_Algorithm/blob/main/screenshot/unsafe.png)
